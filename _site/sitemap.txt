@@ -8,5 +8,6 @@ http://school.drakewitt.com/rss.xml
 http://school.drakewitt.com/sitemap.txt
 http://school.drakewitt.com/tags.html
 
+http://school.drakewitt.com/ap-world/2015/09/18/unit-1-map
 http://school.drakewitt.com/ap-world/2015/09/18/timeline-project
-http://school.drakewitt.com/lessons/2014/02/13/syntax-highlight-example
+http://school.drakewitt.com/ap-world/2015/09/18/chapter-homework
