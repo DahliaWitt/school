@@ -115,7 +115,7 @@ Complete definitions over the chapters.
 
 54. Wendi - A noble who won control of northern China with support of nomadic military leaders. In 589, he defeated the Chen kingdom, which ruled most of the south; established Sui dynasty as ruler. He won popularity by lowering taxes and establishing granaries to ensure a stable, cheap food supply.
 
-55.Jinshi - title given to students who passed the most difficult examinations; became eligible for high office
+55. Jinshi - title given to students who passed the most difficult examinations; became eligible for high office
 
 56. Mahayana Buddhism - one of two great schools of Buddhist doctrine emphasizing a common search for universal salvation especially through faith alone; the dominant religion of China and Tibet and Japan
 
